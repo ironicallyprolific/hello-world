@@ -7,3 +7,4 @@ ingredients:
 method:
 - melt butter in pan and mix in corn starch with a whisk
 - add milk, sugar, and cocoa powder
+- raise the temp and stir often with whisk
