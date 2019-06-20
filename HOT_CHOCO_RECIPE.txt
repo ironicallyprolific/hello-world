@@ -1,6 +1,6 @@
 ingredients:
 - corn starch (or flour)
-- butter (lots of butter)
+- butter (lots of butter, but not too much)
 - milk
 - sugar
 - cocoa powder
