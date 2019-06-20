@@ -1,6 +1,8 @@
 ingredients:
-- corn starch
+- corn starch (or flour)
 - butter
 - milk
 - sugar
 - cocoa powder
+method:
+- melt butter in pan and mix in corn starch with a whisk
