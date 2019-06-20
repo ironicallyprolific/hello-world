@@ -6,3 +6,4 @@ ingredients:
 - cocoa powder
 method:
 - melt butter in pan and mix in corn starch with a whisk
+- add milk, sugar, and cocoa powder
